@@ -5,3 +5,4 @@
 ### Grupo: 4TIDSMG1
 ### Carrera: TSU. En tecnologías de la información área, Desarrollo de software multiplataforma.
 ### Cuatrimestre: Cuarto cuatrimestre.
+### Actividad: 001 - Ejercicios de Lógica con JS [Básicos]
